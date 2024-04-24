@@ -1,0 +1,13 @@
+
+
+#send{
+    background-color: green;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    color: #fff;
+    &:disabled{
+        background-color: #69c869;
+        cursor: none;
+    }
+}
